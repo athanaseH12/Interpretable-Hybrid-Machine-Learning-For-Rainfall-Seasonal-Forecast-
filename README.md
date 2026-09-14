@@ -1,2 +1,2 @@
 # Interpretable-Hybrid-Machine-Learning-For-Rainfall-Seasonal-Forecast-
-This project is evaluating systematic bias in predictive algorithms for climatological reference (observation)
+This project evaluates systematic bias in predictive algorithms for climatological reference (observation)
