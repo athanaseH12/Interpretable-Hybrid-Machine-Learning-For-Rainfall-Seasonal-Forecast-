@@ -1,0 +1,9 @@
+Model,Moran_I,Expected_I,Moran_Z,Moran_P,Adjusted_P,Significant_05,Interpretation
+LR,0.9482009311208033,-0.00019727756954034326,134.33432261488477,0.001,0.001,True,Significant positive spatial autocorrelation
+RidgeR,0.9482009526518907,-0.00019727756954034326,130.26232043901777,0.001,0.001,True,Significant positive spatial autocorrelation
+Lasso,0.948206787870503,-0.00019727756954034326,130.40771094629574,0.001,0.001,True,Significant positive spatial autocorrelation
+KNN,0.8648636184426556,-0.00019727756954034326,121.33340372757908,0.001,0.001,True,Significant positive spatial autocorrelation
+DT,0.8269100063301509,-0.00019727756954034326,121.35758867552218,0.001,0.001,True,Significant positive spatial autocorrelation
+RF,0.8526451984169878,-0.00019727756954034326,114.00036529430301,0.001,0.001,True,Significant positive spatial autocorrelation
+SVR,0.8939556587577502,-0.00019727756954034326,125.77712960358622,0.001,0.001,True,Significant positive spatial autocorrelation
+XGBR,0.8665404256481356,-0.00019727756954034326,114.13028947738398,0.001,0.001,True,Significant positive spatial autocorrelation
